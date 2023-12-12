@@ -57,7 +57,3 @@
 
 10. **Optimization**:
      Optimize for SEO by using semantic HTML and meta tags.
-
-
-
-Please remember, this is a high-level overview, and you would need to break down each step into detailed tasks when working on the actual project. Good luck with Wild-Oasis!
